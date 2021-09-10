@@ -11,3 +11,10 @@
 
 
 
+[[redirects]]
+  from = "/old-path"
+  to = "https://legendary-courses.netlify.app"
+  status = 400
+  force = true
+
+
