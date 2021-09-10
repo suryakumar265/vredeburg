@@ -1,3 +1,9 @@
 [build]
     publish = "dist"
     command = "npm run build"
+
+
+[[redirects]]
+  from = "https://legendary-learning.netlify.app"
+  to = "https://legendary-courses.netlify.app"
+  status = 301
