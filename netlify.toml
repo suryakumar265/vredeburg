@@ -6,4 +6,5 @@
 [[redirects]]
   from = "https://legendary-learning.netlify.app"
   to = "https://legendary-courses.netlify.app"
-  status = 301
+  status = 400
+
